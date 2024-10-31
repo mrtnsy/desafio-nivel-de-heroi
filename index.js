@@ -1,5 +1,5 @@
 let nome = "Yuri"
-let xp = 10000
+let xp = 6000
 let nivel
 
 if( xp <= 1000){ //Incluí 1000 como Ferro para não ser pulado na classificação (acredito ter um erro de lógica no enunciado).
